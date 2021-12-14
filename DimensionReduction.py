@@ -4,7 +4,7 @@ from sklearn import preprocessing
 from random import shuffle
 from sklearn.metrics._classification import classification_report
 from sklearn.model_selection import train_test_split
-from matplotlib import pyplot as plt
+import matplotlib.pyplot as plt
 from sklearn.neural_network import MLPClassifier
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
