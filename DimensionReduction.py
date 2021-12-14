@@ -62,7 +62,7 @@ clf.fit(X_train, y_train)
 y_predict = clf.predict(X_test)
 target_names = ['0','1', '2','3','4','5','6','7','8','9']
 
-f1 = open('results.txt','w')
+f1 = open('finalresult.txt','w')
 count=0
 for i in range(len(X_test)):
     tempStr = ''.join(str(v) for v in X_test[i])
