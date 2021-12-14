@@ -8,3 +8,5 @@ Looking at the digits, we can say that each individual digit can be seen as a pi
 ### How to compile and execute
 
 I have written two Python programs. One is for pattern recognition and used the neural network in sklearn library. Trained the neural network (pattern net) based on the input/output files. The other program is to understand the Dimension reduction Using 1024 features for neural network is very cumbersome. To study how to effective will the program work if I reduce the number of features. Both the programs considers the input file that has been already provided in the assignment and parses the sudoku data file.
+
+I have used Anaconda Navigator JupiterLab to work on this assignment. This program can also be executed in Google Colab.
