@@ -47,9 +47,6 @@ fig.subplots_adjust(top=0.85)
 ax.set_xlabel('Principal Component')
 ax.set_ylabel('Cumulative variance')
 
-
-
-
 plt.plot(var1)
 plt.show()
 
